@@ -1,0 +1,18 @@
+body {
+  margin:0;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  height:2000px;
+}
+.navbar{
+  display: flex;
+  width: 100%;
+}
+.image{
+  object-fit: contain;
+}
+.product{
+  
+}
+.section{
+  padding:0;
+}
